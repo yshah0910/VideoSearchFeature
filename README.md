@@ -1,5 +1,5 @@
 
-# Video Search Feature
+# Video Search Feature (similar to Youtube)
 This project implements a Python API to systematically download 50 NPR YouTube channel videos, along with their corresponding closed captions. The main focus is on building a video preprocessing pipeline and an efficient search feature for video content.
 
 ## Youtube Link for GUI Demo: https://youtu.be/PsP9Tgq1WbQ
